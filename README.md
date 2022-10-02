@@ -15,13 +15,13 @@
 ###  Hi There! 😄
 <br>
 
- 👋 Hi, I’m @Mjmissionready
+ 👋 Hi, I’m Minju Yoon
 
- 🌸 I'm graphic designer & video editor
+ 🌸 I'm full stack developer & graphic designer & video editor.
 
  🌱 I'm currently studying Full stack developer course in Missionready
 
- 👀 I’m interested in coding, coding and more coding
+ 👀 I’m interested in coding, create videos, listening musics and watching movies
  
  💞️ I’m looking to collaborate on new web project
  
