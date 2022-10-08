@@ -39,10 +39,10 @@
   
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mjmissionready&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api?username=yeainni&theme=blue-green" />
  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjmissionready&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeainni&theme=blue-green" />
 
 ---
 
@@ -53,7 +53,7 @@
 
 
 
-![download](https://img.shields.io/github/downloads/Mjmissionready/Turner/total.svg) ![pull](https://img.shields.io/github/issues-pr/Mjmissionready/Turner.svg) ![Ask Me](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+![download](https://img.shields.io/github/downloads/yeainni/AdminWeb/total.svg) ![pull](https://img.shields.io/github/issues-pr/yeainni/AdminWeb.svg) ![Ask Me](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 
 <!---
